@@ -11,7 +11,7 @@ Configuration of this project:
 
  - Uses joda-time plugin
  - Defines the Joda Time user-type registrations in application.groovy
- - Eenabled endpoints in application.yml
+ - Enabled actuator endpoints in application.yml
  - No other changes.
 
 
