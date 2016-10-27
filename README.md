@@ -1,5 +1,7 @@
 # Sample Grails 3.1.13 application for Jackson Groovy Closure error demonstration
 
+Sample for https://github.com/grails/grails-core/issues/10279
+
 If you define a closure in application.groovy (like grails.gorm.default.mapping), you get Jackson errors if you access the Spring Actuator endpoint /env
 
 
